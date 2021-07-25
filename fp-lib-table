@@ -1,0 +1,11 @@
+(fp_lib_table
+  (lib (name Connector_Coaxial)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Connector_Coaxial.pretty)(options "")(descr ""))
+  (lib (name conn-sfp)(type KiCad)(uri /Users/cleverfox/Projects/hard/contrib-kicad_parts/conn-sfp)(options "")(descr ""))
+  (lib (name Package_DFN_QFN)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Package_DFN_QFN.pretty)(options "")(descr ""))
+  (lib (name Resistor_SMD)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Resistor_SMD.pretty)(options "")(descr ""))
+  (lib (name Capacitor_SMD)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Capacitor_SMD.pretty)(options "")(descr ""))
+  (lib (name Package_QFP)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Package_QFP.pretty)(options "")(descr ""))
+  (lib (name Connector)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Connector.pretty)(options "")(descr ""))
+  (lib (name Connector_BarrelJack)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Connector_BarrelJack.pretty)(options "")(descr ""))
+  (lib (name Crystal)(type KiCad)(uri /Users/cleverfox/Projects/hard/kicad-footprints/Crystal.pretty)(options "")(descr ""))
+)
